@@ -51,7 +51,7 @@ To identify the key factors in match success, you could focus on columns that pr
 their return statistics (w_df, w_df_pt, l_df, l_df_pt), and their ranking (winner_rank and loser_rank). 
 You could also consider including contextual factors such as the surface of the court (surface) and the level of the tournament (tourney_level) in your analysis.
 
-Exploratory Data Analysis (EDA):
+II) Exploratory Data Analysis (EDA):
 
 Data cleaning and preprocessing
 Descriptive statistics and visualizations to understand the distribution and relationships between variables
@@ -91,7 +91,7 @@ Multivariate Analysis: Analyze the relationship between multiple variables simul
 This may involve creating visualizations such as parallel coordinates plots or 3D scatter plots, and performing statistical tests such as multivariate regression analysis or factor analysis.
 By following these steps, I should be able to gain a deeper understanding of the data and identify any potential issues or areas for further investigation.
 
-Key Performance Indicators (KPIs):
+III) Key Performance Indicators (KPIs):
 Selection of relevant KPIs to measure the performance of players and the success of matches
 Calculation of KPIs for each player and match in the dataset
 Analysis of the relationship between KPIs and match success
@@ -146,7 +146,7 @@ It was found that higher-ranked players tend to have a higher serve and return p
 Overall, the analysis of KPIs provided valuable insights into the key factors that contribute to a player's success in tennis matches. 
 These insights can be used by players, coaches, and tournament organizers to improve performance and optimize strategies.
 
-Hypothesis Testing:
+IV) Hypothesis Testing:
 Formulation of hypotheses based on the EDA and KPI analysis
 Selection of appropriate statistical tests to test the hypotheses
 Interpretation of the results and evaluation of the evidence in support of the hypotheses
@@ -214,7 +214,7 @@ Hypothesis 3:
 The ANOVA results showed significant differences in serve percentage across different court surfaces (p-value < 0.05). 
 This supports the alternative hypothesis that the surface of the court affects the serve percentage.
 
-Conclusion:
+V) Conclusion:
 The hypothesis testing provided strong evidence that higher-ranked players tend to have a higher serve percentage, which contributes to their success in matches. 
 Additionally, the surface of the court was found to have a significant impact on serve percentage, 
 indicating that players may need to adapt their strategies based on the court surface. These insights can be used by players, coaches, 

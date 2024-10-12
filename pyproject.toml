@@ -1,0 +1,23 @@
+[project]
+name = "tennis-data-analytics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "ipykernel>=6.29.5",
+    "numpy>=2.1.1",
+    "pandas>=2.2.3",
+    "matplotlib>=3.9.2",
+    "seaborn>=0.13.2",
+    "dash>=2.18.1",
+    "plotly>=5.24.1",
+    "folium>=0.17.0",
+    "streamlit>=1.39.0",
+    "streamlit-folium>=0.23.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

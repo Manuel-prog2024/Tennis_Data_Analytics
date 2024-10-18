@@ -86,8 +86,8 @@
           </zone-style>
         </zone>
         <zone h='33281' id='9' is-scaled='1' param='C:/Users/Utilisateur/IronHack/Bootcamp/Individual_Proyect/Tennis_Data_Analytics/figures/Tableau/Aces and Surface.JPG' type-v2='bitmap' w='33209' x='1645' y='13219' />
-        <zone forceUpdate='true' friendly-name='Winner rank vs Serve Points won.JPG' h='36081' id='10' is-scaled='1' param='C:/Users/Utilisateur/IronHack/Bootcamp/Individual_Proyect/Tennis_Data_Analytics/figures/Tableau/Winner rank vs Serve Points won.JPG' type-v2='bitmap' w='26702' x='48018' y='61742' />
-        <zone forceUpdate='true' h='47434' id='11' is-scaled='1' param='C:/Users/Utilisateur/IronHack/Bootcamp/Individual_Proyect/Tennis_Data_Analytics/figures/Tableau/Age_Rank_ht_svpt.JPG' type-v2='bitmap' w='55946' x='33209' y='9953' />
+        <zone friendly-name='Winner rank vs Serve Points won.JPG' h='36081' id='10' is-scaled='1' param='C:/Users/Utilisateur/IronHack/Bootcamp/Individual_Proyect/Tennis_Data_Analytics/figures/Tableau/Winner rank vs Serve Points won.JPG' type-v2='bitmap' w='26702' x='48018' y='61742' />
+        <zone h='47434' id='11' is-scaled='1' param='C:/Users/Utilisateur/IronHack/Bootcamp/Individual_Proyect/Tennis_Data_Analytics/figures/Tableau/Age_Rank_ht_svpt.JPG' type-v2='bitmap' w='55946' x='33209' y='9953' />
         <zone h='33281' id='12' is-scaled='1' param='C:/Users/Utilisateur/IronHack/Bootcamp/Individual_Proyect/Tennis_Data_Analytics/figures/Tableau/distribution of winner rank.JPG' type-v2='bitmap' w='33283' x='2319' y='59409' />
       </zones>
       <devicelayouts>
@@ -101,8 +101,8 @@
           </layout-options>
           <size maxheight='1200' minheight='1200' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='39' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97512' id='38' param='vert' type-v2='layout-flow' w='98804' x='598' y='1244'>
+            <zone h='100000' id='49' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97512' id='48' param='vert' type-v2='layout-flow' w='98804' x='598' y='1244'>
                 <zone h='6998' id='8' type-v2='title' w='98804' x='598' y='1244'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -112,7 +112,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' forceUpdate='true' h='47434' id='11' is-fixed='true' is-scaled='1' param='C:/Users/Utilisateur/IronHack/Bootcamp/Individual_Proyect/Tennis_Data_Analytics/figures/Tableau/Age_Rank_ht_svpt.JPG' type-v2='bitmap' w='55946' x='33209' y='9953'>
+                <zone fixed-size='280' h='47434' id='11' is-fixed='true' is-scaled='1' param='C:/Users/Utilisateur/IronHack/Bootcamp/Individual_Proyect/Tennis_Data_Analytics/figures/Tableau/Age_Rank_ht_svpt.JPG' type-v2='bitmap' w='55946' x='33209' y='9953'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -139,7 +139,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' forceUpdate='true' friendly-name='Winner rank vs Serve Points won.JPG' h='36081' id='10' is-fixed='true' is-scaled='1' param='C:/Users/Utilisateur/IronHack/Bootcamp/Individual_Proyect/Tennis_Data_Analytics/figures/Tableau/Winner rank vs Serve Points won.JPG' type-v2='bitmap' w='26702' x='48018' y='61742'>
+                <zone fixed-size='280' friendly-name='Winner rank vs Serve Points won.JPG' h='36081' id='10' is-fixed='true' is-scaled='1' param='C:/Users/Utilisateur/IronHack/Bootcamp/Individual_Proyect/Tennis_Data_Analytics/figures/Tableau/Winner rank vs Serve Points won.JPG' type-v2='bitmap' w='26702' x='48018' y='61742'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
